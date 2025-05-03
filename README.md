@@ -61,7 +61,4 @@ As a result, models tend to overfit slightly because these features almost direc
 To address this, I used a Decision Tree Classifier to explicitly visualize and control splits, ensuring better interpretability rather than just chasing accuracy.
 > ✅ *Note: Although ensemble models gave higher metrics, the Decision Tree was chosen for its clear classification rules and better generalization without heavy overfitting.*
 
----
-
-## 📊 Sample Confusion Matrix (XGBoost)
 
